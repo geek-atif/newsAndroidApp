@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="placeholderImage">20dp</dimen>
+    <dimen name="padding_10">20dp</dimen>
+    <dimen name="activityPadding">20dp</dimen>
+    <dimen name="placeholderTextHeight">40dp</dimen>
+</resources>
