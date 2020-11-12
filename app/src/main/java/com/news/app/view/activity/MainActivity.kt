@@ -10,11 +10,11 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.dd.coroutineretrofit.user.UIEventManager
 import com.news.R
 import com.news.app.constants.ConstantsApp
 import com.news.app.factory.NewsViewModelFactory
 import com.news.app.model.Article
+import com.news.app.util.UIEventManager
 import com.news.app.view.activity.NewsDescriptionActivity
 import com.news.app.view.adapter.AdapterNew
 import com.news.app.viewmodel.NewsViewModel
